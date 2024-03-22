@@ -7,13 +7,13 @@ const Blogs = () => {
         const fetchData=async()=>{
             const res=await fetch('blogs.json');
             const data=await res.json();
-            console.log(data);
+            setBlogs(data);
         }
         fetchData();
     },[]);
     return (
-        <div>
-            
+        <div className="md:w-2/3">
+            <h1 className="text-4xl">Blogs : {blogs.length}</h1>
         </div>
     );
 };
