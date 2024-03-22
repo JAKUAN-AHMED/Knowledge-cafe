@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://example.com/cover1.jpg",
+    "title": "Lorem Ipsum Dolor Sit Amet",
+    "author": "John Doe",
+    "author_img": "https://example.com/author1.jpg",
+    "reading_Time": "15 minutes",
+    "posted_Date": "2024-03-22",
+    "hashtags": ["fiction", "adventure", "literature"]
+  },
+  {
+    "id": 2,
+    "cover": "https://example.com/cover2.jpg",
+    "title": "Consectetur Adipiscing Elit",
+    "author": "Jane Smith",
+    "author_img": "https://example.com/author1.jpg",
+    "reading_Time": "10 minutes",
+    "posted_Date": "2024-03-21",
+    "hashtags": ["technology", "science", "innovation"]
+  },
+  {
+    "id": 3,
+    "cover": "https://example.com/cover3.jpg",
+    "title": "Sed Do Eiusmod Tempor Incididunt",
+    "author": "Alice Johnson",
+    "author_img": "https://example.com/author1.jpg",
+    "reading_Time": "20 minutes",
+    "posted_Date": "2024-03-20",
+    "hashtags": ["health", "fitness", "wellness"]
+  },
+  {
+    "id": 4,
+    "cover": "https://example.com/cover4.jpg",
+    "title": "Ut Labore Et Dolore Magna",
+    "author": "David Brown",
+    "author_img": "https://example.com/author1.jpg",
+    "reading_Time": "12 minutes",
+    "posted_Date": "2024-03-19",
+    "hashtags": ["cooking", "food", "recipes"]
+  },
+  {
+    "id": 5,
+    "cover": "https://example.com/cover5.jpg",
+    "title": "Enim Ad Minim Veniam",
+    "author": "Emily Wilson",
+    "author_img": "https://example.com/author1.jpg",
+    "reading_Time": "18 minutes",
+    "posted_Date": "2024-03-18",
+    "hashtags": ["travel", "adventure", "explore"]
+  }
+]
