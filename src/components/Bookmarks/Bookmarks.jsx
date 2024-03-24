@@ -6,7 +6,9 @@ const Bookmarks = ({bookmarks,reading_time}) => {
             <div className='bg-slate-200 shadow-md rounded-xl mb-2'>
                 <h2 className="text-center text-2xl">Spent Reading Time : {reading_time}</h2>
             </div>
-            <h2 className="text-2xl text-center ">Bookmarked Blogs : {bookmarks.length}</h2>
+            <div className='bg-slate-200 shadow-md rounded-xl'>
+                <h2 className="text-2xl text-center ">Bookmarked Blogs : {bookmarks.length}</h2>
+            </div>
             {
                 bookmarks.map(bookmark=><Bookmark
                 key={bookmark.id}
